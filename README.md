@@ -11,3 +11,4 @@ To download this folder on your computer as a `.zip` file:
 * To install this package run
       ---r
       devtools::install_github("dupretf/Hello-package")
+      ---
